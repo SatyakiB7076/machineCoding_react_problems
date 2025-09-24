@@ -1,2 +1,13 @@
-# machineCoding_react_problems
-This repo is based on the most asked react machine coding interview questions
+# React Machine Coding Questions 🚀
+
+This repository contains solutions to common **React machine coding interview questions**.  
+Each project is implemented with a focus on clean code, modularity, and clarity.  
+
+---
+
+## 📂 Projects Included
+
+- 🔐 **Password Generator** (length slider, uppercase lowercase numbers symbols)  
+
+
+---
